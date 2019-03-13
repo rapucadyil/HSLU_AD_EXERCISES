@@ -1,0 +1,11 @@
+for n = 4
+-----------------------
+TASK 1 called 4 times
+TASK 2 called 12 times
+TASK 3 called 32 times
+-----------------------
+for n = 8
+-----------------------
+TASK 1 called 4 times
+TASK 2 called 24 times
+TASK 3 called 128 times
